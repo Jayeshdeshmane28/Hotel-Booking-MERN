@@ -75,7 +75,7 @@ export const assets = {
 }
 
 export const cities = [
-    "Dubai",
+    "Mumbai",
     "Singapore",
     "New York",
     "London",
@@ -97,7 +97,8 @@ export const testimonials = [
 
 // Facility Icon
 export const facilityIcons = {
-    "Free WiFi": assets.freeWifiIcon,
+    // "Free WiFi": assets.freeWifiIcon,
+    "Free Wi-Fi": assets.freeWifiIcon,
     "Free Breakfast": assets.freeBreakfastIcon,
     "Room Service": assets.roomServiceIcon,
     "Mountain View": assets.mountainIcon,
